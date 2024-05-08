@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <h1>AlanBitts<h1/>
-- 👀 At the moment I’m interested in front-end
+- 👀 <p>At the moment I’m interested in front-end<p/>
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on simple apps and websites
 - 📫 Reach me at [not confortable sharing my email adress, so contact me throught the social apps]
