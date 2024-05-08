@@ -1,4 +1,4 @@
-
+<img src="https://alanbitts.github.io/images/banner.png">
 Hi, I'mAlanBitts
 - 👀 At the moment I’m interested in front-end
 - 🌱 I’m currently learning full-stack development
