@@ -3,13 +3,9 @@
 Hi, I'm Alan (not my real name)
 
 - 🌱 I’m currently learning full-stack development
-
 - 🧑‍💻 I’m looking for mentorship in programing
-
 - ⚡ Fun fact: I love Music, playing instruments and drinking coffe (I must!)
-
 - 📚 also, I love metaphysics and philosophy 
-
 - 📫 Reach me at <a href="mailto: rui-viveiros@hotmail.com" subject="github profile">my inbox</a>
 
 <!---
