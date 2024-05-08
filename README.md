@@ -1,6 +1,6 @@
 <img src="https://alanbitts.github.io/images/banner.png">
 
-Hi, I'm AlanBitts
+Hi, I'm Alan (not my real name)
 
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on simple apps and websites
