@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlanBitts
+- 👋 Hi, I’m <h1>AlanBitts</>
 - 👀 At the moment I’m interested in front-end
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on simple apps and websites
