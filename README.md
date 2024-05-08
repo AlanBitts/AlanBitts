@@ -1,4 +1,4 @@
-<h6>👋 Hi, I’m</h6><h1>AlanBitts<h1/>
+Hi, I'm <h3>AlanBitts<h3/>
 - 👀 At the moment I’m interested in front-end
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on simple apps and websites
