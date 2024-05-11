@@ -25,7 +25,8 @@ In 2024 I decided to go back and pursue knowledge in Computer Sciences after tak
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
 # Get in touch
-:arrow_upper_right: [LinkedIn](https://www.linkedin.com/in/alanbitts/)
+:arrow_upper_right: [LinkedIn](https://www.linkedin.com/in/alanbitts/)   
+
 :octocat: [Github portefolio](alanbitts.github.io)
 <!---
 AlanBitts/AlanBitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
