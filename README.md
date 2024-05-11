@@ -27,7 +27,7 @@ In 2024 I decided to go back and pursue knowledge in Computer Sciences after tak
 # Get in touch
 :arrow_upper_right: [LinkedIn](https://www.linkedin.com/in/alanbitts/)   
 
-:octocat: [Github portefolio](alanbitts.github.io)
+💬 [Discord@alanbitts](https://discord.com/invite/WSUQJVSC)
 <!---
 AlanBitts/AlanBitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
