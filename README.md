@@ -1,7 +1,7 @@
 <img src="https://alanbitts.github.io/images/banner.png">
 
 # Hi, Im Alan
-[!Alan Bitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)
+[Alan Bitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)
 - 🌱 I’m currently learning full-stack development
 - 🧑‍💻 I’m looking for mentorship in programing
 - ⚡ Fun fact: I love Music, playing instruments and drinking coffe (I must!)
