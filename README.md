@@ -6,8 +6,9 @@ I'm Alan, an IT technician and former communication assistant. I had several non
 
 
 - 🌱 I’m currently learning full-stack development
-- ⚡ Fun fact: I love Music, playing instruments, video games and drinking coffe (I must!)
 - 📚 I love metaphysics, philosophy and classic literature
+- ⚡ Fun fact: I love Music, playing instruments, video games and drinking coffe (I must!)
+
 
 [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
