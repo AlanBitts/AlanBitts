@@ -5,7 +5,7 @@
 
 
 IT technician and former communication assistant. I had several non tech jobs before starting my journey in coding/programing.
-In 2024 I decided to go back and persue knowledge in Computer Sciences after taking a course on _Git and Github essentials_.
+In 2024 I decided to go back and pursue knowledge in Computer Sciences after taking a course on _Git and Github essentials_.
 
 
 - 🌱 I’m currently learning full-stack development
