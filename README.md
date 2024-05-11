@@ -11,7 +11,7 @@ I'm Alan, an IT technician and former communication assistant. I had several non
 
 [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/AlanBitts?tab=repositories))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts)](https://github.com/AlanBitts?tab=repositories)
 
 # Get in touch
 [LinkedIn](https://www.linkedin.com/in/alanbitts/)
