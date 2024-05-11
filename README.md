@@ -11,6 +11,8 @@ In 2024 I decided to go back and persue knowledge in Computer Sciences after tak
 - 🌱 I’m currently learning full-stack development
 - 👨‍🎓 Undergraduate degree in Communications, Culture and Organizations by [UMa](https://www.uma.pt/en/) (2015)
 - 💻 IT professional (2012)
+
+## Hobbies 
 - 📚 I like reading about metaphysics, philosophy and classic literature
 - 🎸 Fun fact: I love Music, playing instruments, video games and drinking beer.
 - 🗺️ Based in Island of Madeira
