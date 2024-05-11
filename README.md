@@ -17,7 +17,7 @@ In 2024 I decided to go back and persue knowledge in Computer Sciences after tak
 
 ### Hobbies 
 - 📚 I like reading about metaphysics, philosophy, classic literature and sci-fi
-- 🎸 I love Music and know how to play guitar and bass. Also know a little bit about music production (I have two original songs that I made during the 2019 pandemic ( check my [YouTube](https://www.youtube.com/@alanbitts)
+- 🎸 I love Music and know how to play guitar and bass. Also know a little bit about music production (I have two original songs that I made during the 2019 pandemic (check my [YouTube](https://www.youtube.com/@alanbitts))
 
 [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
