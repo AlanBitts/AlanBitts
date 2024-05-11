@@ -12,7 +12,7 @@ In 2024 I decided to go back and persue knowledge in Computer Sciences after tak
 - 👨‍🎓 Undergraduate degree in Communications, Culture and Organizations by [UMa](https://www.uma.pt/en/)
 - 📚 I love metaphysics, philosophy and classic literature
 - ⚡ Fun fact: I love Music, playing instruments, video games and drinking coffe (I must!)
-- 🗺️ I'm based in Island of Madeira
+- 🗺️ Based in Island of Madeira
 
 
 [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
