@@ -1,7 +1,7 @@
 <img src="https://alanbitts.github.io/images/banner.png">
 
 # Hi, Im Alan
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBitts)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true)
 - 🌱 I’m currently learning full-stack development
 - 🧑‍💻 I’m looking for mentorship in programing
 - ⚡ Fun fact: I love Music, playing instruments and drinking coffe (I must!)
