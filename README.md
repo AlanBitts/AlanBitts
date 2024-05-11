@@ -4,13 +4,13 @@
 :wave: Hi, I'm Rui Viveiros aka AlanBitts
 
 
-IT technician and former communication assistant. I had several non tech jobs before I started my journey here on Github.
+IT technician and former communication assistant. I had several non tech jobs before starting my journey in coding/programing.
 In 2024 I decided to go back and persue knowledge in Computer Sciences after taking a course on _Git and Github essentials_.
 
 
 - 🌱 I’m currently learning full-stack development
 - 👨‍🎓 Undergraduate degree in Communications, Culture and Organizations by [UMa](https://www.uma.pt/en/)
-- 📚 I love metaphysics, philosophy and classic literature
+- 📚 I like reading about metaphysics, philosophy and classic literature
 - ⚡ Fun fact: I love Music, playing instruments, video games and drinking coffe (I must!)
 - 🗺️ Based in Island of Madeira
 
