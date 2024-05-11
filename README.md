@@ -1,4 +1,4 @@
-# About me 
+I'm no# About me 
 
 
 :wave: Hi, I'm Rui Viveiros aka AlanBitts
@@ -17,7 +17,7 @@ In 2024 I decided to go back and persue knowledge in Computer Sciences after tak
 
 [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts)](https://github.com/AlanBitts?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
 # Get in touch
 :arrow_upper_right: [LinkedIn](https://www.linkedin.com/in/alanbitts/)
