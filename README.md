@@ -1,4 +1,4 @@
-I'm no# About me 
+# About me 
 
 
 :wave: Hi, I'm Rui Viveiros aka AlanBitts
@@ -11,7 +11,7 @@ In 2024 I decided to go back and persue knowledge in Computer Sciences after tak
 - 🌱 I’m currently learning full-stack development
 - 👨‍🎓 Undergraduate degree in Communications, Culture and Organizations by [UMa](https://www.uma.pt/en/)
 - 📚 I like reading about metaphysics, philosophy and classic literature
-- ⚡ Fun fact: I love Music, playing instruments, video games and drinking coffe (I must!)
+- 🎸 Fun fact: I love Music, playing instruments, video games and drinking beer.
 - 🗺️ Based in Island of Madeira
 
 
