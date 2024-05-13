@@ -1,11 +1,11 @@
 # About me 
 
 
-:wave: Hi, I'm Rui Viveiros aka AlanBitts
+:wave: Hi, I'm Rui Viveiros
 
 
 IT technician and former communication assistant. I had several non tech jobs before starting my journey in coding/programing.
-In 2024 I decided to go back and pursue knowledge in Computer Sciences after taking a course on _Git and Github essentials_.
+In 2024 I decided further pursue knowledge in web development after taking a course on _Git and Github essentials_.
 
 
 - 🌱 I’m currently learning full-stack development
@@ -27,7 +27,6 @@ In 2024 I decided to go back and pursue knowledge in Computer Sciences after tak
 # Get in touch
 :arrow_upper_right: [LinkedIn](https://www.linkedin.com/in/alanbitts/)   
 
-💬 [Discord@alanbitts](https://discord.com/invite/WSUQJVSC)
 <!---
 AlanBitts/AlanBitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
