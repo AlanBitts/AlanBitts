@@ -25,7 +25,8 @@ In 2024 I decided further pursue knowledge in web development after taking a cou
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
 # Get in touch
-:arrow_upper_right: [LinkedIn](https://www.linkedin.com/in/alanbitts/)   
+[LinkedIn](https://www.linkedin.com/in/alanbitts/)   
+[X](https://x.com/alanbittsx)
 
 <!---
 AlanBitts/AlanBitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
