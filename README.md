@@ -8,9 +8,9 @@ IT technician and former communication assistant. I had several non tech jobs be
 In 2024 I decided further pursue knowledge in web development after taking a course on _Git and Github essentials_.
 
 
-- 🌱 I’m currently learning full-stack development
-- 👨‍🎓 Undergraduate degree in Communications, Culture and Organizations by [UMa](https://www.uma.pt/en/) (2015)
-- 💻 IT professional (2012)
+- I’m currently learning full-stack development
+- Undergraduate degree in Communications, Culture and Organizations by [UMa](https://www.uma.pt/en/) (2015)
+- IT professional (2012)
 
 📍 Based in Island of Madeira
 
