@@ -20,13 +20,20 @@ In 2024 I decided further pursue knowledge in web development after taking a cou
 - 🎸 I love Music and know how to play guitar and bass. Also know a little bit about music production (I have two original songs that I made during the 2019 pandemic (check my [YouTube](https://www.youtube.com/@alanbitts))
 - 👷‍♂️ [About me page](https://alanbitts.github.io)
 
-[![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
+### Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,git,md,npm)](https://skillicons.dev)
+
+### Tools I use
+
+[![My tools](https://skillicons.dev/icons?i=windows,linux,visualstudio,bash,discord,postman)](https://skillicons.dev)
+
+  [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai)](https://github.com/AlanBitts?tab=repositories)
 
 # Get in touch
-[LinkedIn](https://www.linkedin.com/in/alanbitts/)   
-[X](https://x.com/alanbittsx)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alanbitts/)  [![x](https://skillicons.dev/icons?i=twitter)](https://x.com/alanbittsx)
 
 <!---
 AlanBitts/AlanBitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
