@@ -3,7 +3,7 @@
 # About me 
 
 
-:wave: Hi, I'm Rui Viveiros
+Hi, I'm Rui Viveiros
 
 
 IT technician and former communication assistant. I had several non tech jobs before starting my journey in coding/programing.
@@ -18,9 +18,9 @@ In 2024 I decided further pursue knowledge in web development after taking a cou
 
 
 ### Hobbies 
-- 📚 I like reading about metaphysics, philosophy, classic literature and sci-fi
-- 🎸 I love Music and know how to play guitar and bass. Also know a little bit about music production (I have two original songs that I made during the 2019 pandemic (check my [YouTube](https://www.youtube.com/@alanbitts))
-- 👷‍♂️ [About me page](https://alanbitts.github.io)
+- I like reading about metaphysics, philosophy, classic literature and sci-fi
+- I love Music and know how to play guitar and bass. Also know a little bit about music production (I have two original songs that I made during the 2019 pandemic (check my [YouTube](https://www.youtube.com/@alanbitts))
+- [About me page](https://alanbitts.github.io)
 
 ### Skills
 
