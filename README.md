@@ -24,7 +24,11 @@ In 2024 I decided further pursue knowledge in web development after taking a cou
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,git,md,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,md,npm)](https://skillicons.dev)
+
+### Frameworks/Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,numpy)](https://skillicons.dev)
 
 ### Tools I use
 
