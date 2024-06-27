@@ -1,4 +1,7 @@
-![Discord](https://img.shields.io/discord/1162418065452060773?style=for-the-badge&logo=Discord&logoColor=white&label=My%20chat%20room&link=https%3A%2F%2Fdiscord.gg%2F4s6pGqvB)
+![Static Badge](https://img.shields.io/badge/Python-Numpy-blue?style=plastic&logo=numpy&link=https%3A%2F%2Fnumpy.org%2F)
+
+ ![Static Badge](https://img.shields.io/badge/Python-Pandas-green?style=plastic&logo=pandas&color=white)
+
 
 # About me 
 
