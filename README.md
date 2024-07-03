@@ -23,15 +23,15 @@ In 2024 I decided further pursue knowledge in web development after taking a cou
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,md,npm)](https://skillicons.dev)
+[under construction]
 
 ### Frameworks/Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,numpy)](https://skillicons.dev)
+[under construction]
 
 ### Tools I use
 
-[![My tools](https://skillicons.dev/icons?i=windows,linux,visualstudio,bash,discord,postman)](https://skillicons.dev)
+[under construction]
 
   [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai&hide_rank=true&hide_title=true)](https://github.com/AlanBitts?tab=repositories)
   
