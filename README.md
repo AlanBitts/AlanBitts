@@ -22,23 +22,28 @@ In 2024 I decided further pursue knowledge in web development after taking a cou
 - [My Gallery](https://alanbitts-gallery.netlify.app/)
 
 ### Skills
-
-[under construction]
+- Python
+- JavaScript
+- HTML&CSS
 
 ### Frameworks/Libraries
-
-[under construction]
+- Flask
+- Django
+- Node.js
+- Express.js
+- Bootstrap
+- React.js
 
 ### Tools I use
+- VScode
+- Vim
+- Jupyter Lab
 
-[under construction]
+[![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai&hide_rank=true&hide_title=true)](https://github.com/AlanBitts?tab=repositories)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai&hide_title=true&layout=pie&card_width=310)](https://github.com/AlanBitts?tab=repositories)
 
-  [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai&hide_rank=true&hide_title=true)](https://github.com/AlanBitts?tab=repositories)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai&hide_title=true&layout=pie&card_width=310)](https://github.com/AlanBitts?tab=repositories)
-
-# Get in touch
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alanbitts/)  [![x](https://skillicons.dev/icons?i=twitter)](https://x.com/alanbittsx)
+# Socials
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alanbitts/) 
 
 <!---
 AlanBitts/AlanBitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
