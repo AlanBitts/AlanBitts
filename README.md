@@ -1,19 +1,18 @@
 # About me 
-
-
-Greetings, Dear Internauts  
-My name is Rui Viveiros aka
 ```                                                               
    mm   ""#                  mmmmm    "      m      m          
    ##     #     mmm   m mm   #    # mmm    mm#mm  mm#mm   mmm  
   #  #    #    "   #  #"  #  #mmmm"   #      #      #    #   " 
   #mm#    #    m"""#  #   #  #    #   #      #      #     """m 
  #    #   "mm  "mm"#  #   #  #mmmm" mm#mm    "mm    "mm  "mmm" 
+```
+Greetings, dear internauts,  
+I am Rui Viveiros(irl) but you can call me AlanBitts.
 
-```                                                              
-I'm an IT technician and former communication assistant. I had several non tech jobs before starting my journey in coding/programing.
-In 2024 I decided further pursue knowledge in web development after taking a course on _Git and Github essentials_.
+I had several non tech jobs before getting here, such as: bartender, hotel recepcionist, IT technician, communication assistant and convinience store operator (not _smooth operator_, unfortunately)
+All those jobs made me realise that I do not want to do repetitive tasks for the rest of my life... I want to build/automate things! I want to contribute for a better Internet! I want help people/businesses grow online!
 
+So that's why in 2024 I decided further pursue knowledge in web development after taking a course on _HTML/CSS/JavaScript_.  
 
 - I’m currently learning full-stack development (2024-present)
 - Undergraduate degree in Communications, Culture and Organizations by [UMa](https://www.uma.pt/en/) (2015)
