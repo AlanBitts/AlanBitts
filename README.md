@@ -2,9 +2,15 @@
 
 
 Greetings, Dear Internauts  
-My name is Rui Viveiros aka AlanBitts
+My name is Rui Viveiros aka
+```                                                               
+   mm   ""#                  mmmmm    "      m      m          
+   ##     #     mmm   m mm   #    # mmm    mm#mm  mm#mm   mmm  
+  #  #    #    "   #  #"  #  #mmmm"   #      #      #    #   " 
+  #mm#    #    m"""#  #   #  #    #   #      #      #     """m 
+ #    #   "mm  "mm"#  #   #  #mmmm" mm#mm    "mm    "mm  "mmm" 
 
-
+```                                                              
 I'm an IT technician and former communication assistant. I had several non tech jobs before starting my journey in coding/programing.
 In 2024 I decided further pursue knowledge in web development after taking a course on _Git and Github essentials_.
 
