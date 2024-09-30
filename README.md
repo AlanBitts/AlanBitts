@@ -1,11 +1,4 @@
 # About me 
-```                                                               
-   mm   ""#                  mmmmm    "      m      m          
-   ##     #     mmm   m mm   #    # mmm    mm#mm  mm#mm   mmm  
-  #  #    #    "   #  #"  #  #mmmm"   #      #      #    #   " 
-  #mm#    #    m"""#  #   #  #    #   #      #      #     """m 
- #    #   "mm  "mm"#  #   #  #mmmm" mm#mm    "mm    "mm  "mmm" 
-```
 Greetings, dear internauts,  
 I am Rui Viveiros(irl) but you can call me AlanBitts.
 
