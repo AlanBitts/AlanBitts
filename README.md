@@ -1,6 +1,6 @@
 # About me 
 Greetings, dear internauts,  
-I am Rui Viveiros(irl) but you can call me AlanBitts.
+I am Rui Viveiros.
 
 I had several non tech jobs before getting here, such as: bartender, hotel recepcionist, IT technician, communication assistant and convinience store operator (not _smooth operator_, unfortunately)
 All those jobs made me realise that I do not want to do repetitive tasks for the rest of my life... I want to build/automate things! I want to contribute for a better Internet! I want help people/businesses grow online!
